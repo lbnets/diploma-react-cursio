@@ -89,3 +89,4 @@ const App = () => {
 };
 
 Object.assign(window, { App });
+export default App;
